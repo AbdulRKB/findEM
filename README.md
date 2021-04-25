@@ -14,14 +14,10 @@
 $ git clone git://github.com/CyberTitus/TBlazerKill.git
 ```
 
-- Then download the requirements -
-```
-$ pip install -r requirements.txt
-```
-
-- Change to cloned directory and run `main.py` -
+- Change to cloned directory, install dependencies & run `main.py` -
 ```
 $ cd TBlazerKill
+$ pip install -r requirements.txt
 $ python3
 ```
 
