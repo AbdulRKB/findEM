@@ -18,7 +18,7 @@ $ git clone git://github.com/CyberTitus/TBlazerKill.git
 ```
 $ cd TBlazerKill
 $ pip install -r requirements.txt
-$ python3
+$ python3 main.py
 ```
 
 ### Dependencies
