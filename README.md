@@ -16,19 +16,19 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/CyberTitus/TBlazerKill.git
+$ git clone git://github.com/CyberTitus/findEM.git
 ```
 
 - Change to cloned directory, install dependencies & run `main.py` -
 ```
-$ cd TBlazerKill
+$ cd findEM
 $ sudo pip install -r requirements.txt
 $ sudo python3 main.py
 ```
 
 ### Dependencies
 
-**`TBlazerKill`** requires following programs to run properly - 
+**`findEM`** requires following programs to run properly - 
 - `python3`
 - `git`
 - `pip`
